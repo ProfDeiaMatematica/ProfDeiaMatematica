@@ -1,9 +1,9 @@
-## Bem vindo ao meu perfil :pink_heart
+## Bem vindo ao meu perfil 🌹
 Meu nome é Andréia Brito Nascimento
 Sou professora de matemática do Ensino Médio e leciono também a disciplina Tecnologia e Robótica
 Utilizo esse espaço para compartilhamento dos projetos desenvolvidos em aula
 
-### Para entrar contato :mailbox
+### Para entrar contato 📬
 
 andreiabrito@prof.educacao.sp.gov.br
 
