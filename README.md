@@ -1,4 +1,11 @@
-## Hi there 👋
+## Bem vindo ao meu perfil :pink_heart
+Meu nome é Andréia Brito Nascimento
+Sou professora de matemática do Ensino Médio e leciono também a disciplina Tecnologia e Robótica
+Utilizo esse espaço para compartilhamento dos projetos desenvolvidos em aula
+
+### Para entrar contato :mailbox
+
+andreiabrito@prof.educacao.sp.gov.br
 
 <!--
 **ProfDeiaMatematica/ProfDeiaMatematica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
